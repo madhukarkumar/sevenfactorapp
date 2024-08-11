@@ -1,2 +1,0 @@
-# V. Collaboration at Scale
-

@@ -4,7 +4,7 @@ description: >-
   gen AI app in a modular way similar to microservices.
 ---
 
-# I. Modularity over Monoliths
+# I. Modularity Over Monoliths
 
 The Seven-Factor App is inherently modular and follows the best practices of microservices architecture. This enables iterative changes, deployment and scalability at scale. Modularity can be achieved by either packaging coherent set of functionalities as microservices but an emerging architecture specifically for generative AI applications is preferred called Multi-Agent RAG Systems (MARS).
 
@@ -15,6 +15,8 @@ A typical ReACT agent consists of three primary constructs:&#x20;
 1. Intelligence - Access to one or more LLMs.
 2. Tools - Access to receptors and effectors through webhooks and APIs.
 3. Knowledge - Access to both structured and unstructured data specific to the agent's goals and objectives.&#x20;
+
+An agent also maintains state or has both long-term and short-ter "memory" that can be encapsulated within knowledge.
 
 ### Collaboration
 
