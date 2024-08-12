@@ -1,3 +1,10 @@
+---
+description: >-
+  This page describes the 3rd point of the Seven-Factor Enterprise AI app around
+  use of disaggregated LLMs in Multi-Agent RAG Systems (MARS) to maintain model
+  and provider agnosticism.
+---
+
 # III. Many LLMs, One Intelligence
 
 Due to the first principle of modularity of the Seven-Factor App, an enterprise generative AI application should not rely on one single provider, model or version of a Large Language Model (LLM). There are several reasons for this but the three most common ones include

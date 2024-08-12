@@ -25,5 +25,5 @@ The Seven-Factor App is agnostic to the underlying choices of technologies and p
 
 ### Background
 
-The document is based on the experiences of directly working with and helping several small and large companies building generative AI applications using [SingleStore ](https://singlestore.com)as the underlying data source. However, this repo is open for collaboration and contribution from other developers and engineers who have built reality-scale enterprise grade generative AI applications and have other notes to add. We will capture those notes and case studies in a separate chapter called case studies after step VII.
+The document is based on the experiences of directly working with and helping several small and large companies building generative AI applications using [SingleStore ](https://singlestore.com)as the underlying data source. These companies include but are not limited to multi-billion dollar tech and financial services companies. However, this [repo](https://github.com/madhukarkumar/sevenfactorapp) is open for collaboration and contribution from other developers, engineers and architects who have built reality-scale enterprise-grade generative AI applications and have other notes to add. We will capture those notes and case studies in a separate chapter called case studies after step VII.
 

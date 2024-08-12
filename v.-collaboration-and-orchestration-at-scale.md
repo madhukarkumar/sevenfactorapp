@@ -1,3 +1,10 @@
+---
+description: >-
+  The page describes the fifth point of the Seven-Factor Enterprise AI App
+  around orchestration and collaboration among AI agents in Multi-Agent RAG
+  System (MARS).
+---
+
 # V. Collaboration and Orchestration at Scale
 
 In a Seven-Factor App, there are primarily two big categories of collabration with AI agents.
