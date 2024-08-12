@@ -16,7 +16,7 @@ A typical ReACT agent consists of three primary constructs:&#x20;
 2. Tools - Access to receptors and effectors through webhooks and APIs.
 3. Knowledge - Access to both structured and unstructured data specific to the agent's goals and objectives.&#x20;
 
-An agent also maintains state or has both long-term and short-ter "memory" that can be encapsulated within knowledge.
+An agent also maintains state or has both long-term and short-term "memory" that can be encapsulated within knowledge.
 
 ### Collaboration
 
