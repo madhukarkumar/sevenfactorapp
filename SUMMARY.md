@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [0. Introduction](README.md)
 * [I. Modularity Over Monoliths](i.-modularity-over-monoliths.md)
 * [II. Information and Context Curation](ii.-information-and-context-curation.md)
 * [III. Many LLMs, One Intelligence](iii.-many-llms-one-intelligence.md)
