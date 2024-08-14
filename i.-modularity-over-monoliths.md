@@ -18,6 +18,8 @@ A typical ReACT agent consists of three primary constructs:&#x20;
 
 An agent also maintains state or has both long-term and short-term "memory" that can be encapsulated within knowledge.
 
+<figure><img src=".gitbook/assets/CleanShot 2024-08-14 at 06.56.03@2x.png" alt=""><figcaption><p>A visual representation of a ReACT Agent</p></figcaption></figure>
+
 ### Collaboration
 
 As of writing this document, there are two primary ways of collaboration between agents.&#x20;

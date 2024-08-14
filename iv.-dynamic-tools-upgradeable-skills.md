@@ -14,3 +14,5 @@ A function used as a tool should ideally return information using the[ OpenAPI s
 For large enterprises, the tools should be discoverable through a catalog and developers should be able to create new or encapsulate functionalities within the Tools OpenAPI schema and publish to the catalog, similar to docker containers.&#x20;
 
 A collection of specific tools, along with specific prompt and fine tuned domain-specific knowledge (data) can be encapsulated as a skill for an agent. For example, an agent that has access to keyword research API, web scraping APIs, web analytics APIs and access to fine tuned LLM with specific prompt could be referred to a an Agent with the enterprise SEO skill.&#x20;
+
+<figure><img src=".gitbook/assets/CleanShot 2024-08-14 at 07.01.16@2x.png" alt=""><figcaption><p>A visual representation of an Agent with access to multiple tools</p></figcaption></figure>

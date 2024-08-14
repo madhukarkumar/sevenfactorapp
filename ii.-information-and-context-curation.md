@@ -16,3 +16,5 @@ The information layer thus should have the following components accessible for R
 8. The information layer should provide a way for developers and data engineers to discover data through published meta data, create prototypes of applications (for example Jupyter notebooks) and the ability to deploy data apps as microservices that are resilient to underlying schema changes (for example, through the use of materialized views).
 9. The information layer should provide branching as a feature to enable viewing and iterating over different versions of data states.
 10. The information layer should also allow persisting feedback of query responses from different agents and apps that can then be enriched with Reinforced Learning from Human Feedback (RLHF) and then continuously fine tune certain LLMs.
+
+<figure><img src=".gitbook/assets/CleanShot 2024-08-14 at 06.57.58@2x.png" alt=""><figcaption><p>An example reference architecture of an Enterprise AI Data Stack</p></figcaption></figure>
